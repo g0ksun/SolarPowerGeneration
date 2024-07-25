@@ -3,7 +3,7 @@ Data mining exercise using R.
 
 ## Credits
 
-[Beyzagül GÖKSU](https://github.com/g0ksun)
+[Beyzagül GÖKSU](https://github.com/g0ksun)\
 [Eda BUZLU](https://github.com/buzlueda)
 
 ## Data Set
